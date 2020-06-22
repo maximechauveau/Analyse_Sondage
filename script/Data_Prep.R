@@ -132,7 +132,7 @@ df_sondage$Sexe <- as.factor(df_sondage$Sexe)
 df_sondage$Sexe <- relevel(df_sondage$Sexe, '0')
 
 #levels(df_sondage$Sexe)
-#freq(df_sondage$Sexe)
+freq(df_sondage$Sexe)
 
 
 ############################################
@@ -362,7 +362,7 @@ df_sondage$Achat_VA <- relevel(df_sondage$Achat_VA, '0')
 levels(df_sondage$Achat_VA)
 freq(df_sondage$Achat_VA)
 
-
+df_sondage <- df_sondage[,-16]
 
 
 df_RegLog <- df_sondage

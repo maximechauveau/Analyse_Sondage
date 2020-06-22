@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1592665664992.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3000677496",
+    "id" : "29F8C1F0",
+    "lastKnownWriteTime" : 1591646848,
+    "last_content_update" : 1591646848,
+    "path" : "~/Maxime Chauveau/Master Medas/Mémoire/Analyse_Sondage/script/Data_Prep.R",
+    "project_path" : "script/Data_Prep.R",
+    "properties" : {
+        "cursorPosition" : "67,44",
+        "scrollLine" : "47",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
